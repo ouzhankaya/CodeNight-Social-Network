@@ -1,0 +1,4 @@
+c:\users\oğuzhan\documents\visual studio 2015\Projects\CodeNight\Common\bin\Debug\Common.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\CodeNight\Common\bin\Debug\Common.pdb
+c:\users\oğuzhan\documents\visual studio 2015\Projects\CodeNight\Common\obj\Debug\Common.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\CodeNight\Common\obj\Debug\Common.pdb

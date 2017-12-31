@@ -1,0 +1,4 @@
+c:\users\oğuzhan\documents\visual studio 2015\Projects\CodeNight\Core\bin\Debug\Core.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\CodeNight\Core\bin\Debug\Core.pdb
+c:\users\oğuzhan\documents\visual studio 2015\Projects\CodeNight\Core\obj\Debug\Core.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\CodeNight\Core\obj\Debug\Core.pdb
